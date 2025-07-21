@@ -45,13 +45,11 @@ Online-flight-booking-system/
 
 ### 1. Home Page Interface
 
-![Flight Booking Home](flight booking\screenshot 1.png)
+![Flight Booking Home](flight booking/screenshot 1.png)
 
 ### 2. After Search (Optional)
 
-![Search Result](flight booking\screenshot 1.png)
-
-💻 Technologies Used
+![Search Result](flight booking/screenshot 2.png)
 
 HTML5
 
